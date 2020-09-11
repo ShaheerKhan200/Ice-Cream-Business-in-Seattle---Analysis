@@ -26,6 +26,6 @@ The location data is provided by Foursquare API. The Foursquare API was used to 
 The coordinates data for each respective neighbourhood was obtained using Geopy and Geocoder packages. 
 
 ## References
-[1]
+[1] Wikipedia Contributors, “Seattle,” Wikipedia, 27-Aug-2020. [Online]. Available: https://en.wikipedia.org/wiki/Seattle. [Accessed: 27-Aug-2020]
 
-[2]
+[2] “About Seattle - OPCD | seattle.gov,” Seattle.gov, 2019. [Online]. Available: https://www.seattle.gov/opcd/population-and-demographics/about-seattle. [Accessed: 27-Aug-2020]
