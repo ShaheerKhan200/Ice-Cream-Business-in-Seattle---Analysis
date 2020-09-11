@@ -17,7 +17,7 @@ Based on the business problem discussed earlier, factors that will be affecting 
 Having said that, I needed to keep these 2 factors in mind when recommending the best possible neighbourhood for an ice cream business to be opened.
 
 ### 2.1 Neighbourhood Data
-Neighbourhood Data for Seattle, Washington was imported from US CENSUS. This data is obtained from seattle.gov (US census) website [2]. This data set includes data on population, housing, and ethnicity information for each neighbourhood. Total number of neighbourhoods provided were 53. The data was presented in a CSV format, since the dataset was not too big, I chose to remove unwanted headers, footers and columns within the CSV file using Excel. Later high-level data cleaning was carried out in Python.
+Neighbourhood Data for Seattle, Washington was imported from US CENSUS. This data is obtained from seattle.gov (US census) website [2]. This data set includes data on population, housing, and ethnicity information for each neighbourhood. Total number of neighbourhoods provided were 53. The data was presented in a CSV format, since the dataset was not too big, I chose to remove unwanted headers, footers and columns within the CSV file using Excel. Later high-level data cleaning was carried out in Python. [a link](https://github.com/ShaheerKhan200/Ice-Cream-Business-in-Seattle---Analysis/blob/master/Seattle%20Project%20Data%20Census.csv)
 
 ### 2.2. Location Data
 The location data is provided by Foursquare API. The Foursquare API was used to gather the data regarding most common venues for each respective neighbourhood using the explore function of the Foursquare API. This is discussed in more detail later in the Methodology section.
