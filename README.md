@@ -1,5 +1,5 @@
 # Opening an Ice Cream Business in Seattle - Analysis
-Using k-means clustering and other analysis techniques, to suggest the best neighbourhood to open an Ice Cream business in Seattle, Washington, USA. My blog on this can be found [here](). 
+Using k-means clustering and other analysis techniques, to suggest the best neighbourhood to open an Ice Cream business in Seattle, Washington, USA. My blog on this can be found [here](). The code used to carry out the analysis can be found [here](https://github.com/ShaheerKhan200/Ice-Cream-Business-in-Seattle---Analysis/blob/master/IBM%20Capstone%20Project%20-%20Ice%20Cream%20Business%20in%20Seattle.ipynb). 
 
 ## 1. Introduction
 ### 1.1 Background
